@@ -1,0 +1,11 @@
+__author__ = "Stefan Fischer"
+__email__ = "sfischer13@ymail.com"
+__contact__ = "Stefan Fischer <{}>".format(__email__)
+__copyright__ = "Copyright (c) 2015 {}".format(__author__)
+__credits__ = []
+__date__ = "2015-10-31"
+__license__ = "MIT"
+__status__ = "development"
+__summary__ = "Deprecate old code using decorators."
+__url__ = "https://github.com/sfischer13/python-deprecation/"
+__version__ = "0.0.1"
